@@ -62,11 +62,7 @@
 - ✅ Zero manual deployment — fully automated!
 - ✅ Pipeline validated with 2 successful runs
 
-## 📊 GitHub Stats
 
-![Ajay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajaynarayana28-git&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
----
 
 ## 📫 Connect With Me
 
