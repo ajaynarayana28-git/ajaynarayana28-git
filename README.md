@@ -49,6 +49,19 @@
 
 ---
 
+---
+
+### 🔹 [AWS Static Website Hosting with CI/CD Pipeline](https://github.com/ajaynarayana28-git/aws-static-website-cicd-pipeline)
+
+> Fully automated CI/CD pipeline for static website hosting using GitHub, CodePipeline and S3.
+
+**What it does:**
+- ✅ GitHub connected to AWS CodePipeline automatically
+- ✅ Any code change triggers automatic deployment to S3
+- ✅ Static website hosted and live on AWS S3
+- ✅ Zero manual deployment — fully automated!
+- ✅ Pipeline validated with 2 successful runs
+
 ## 📊 GitHub Stats
 
 <p align="center">
