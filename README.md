@@ -64,10 +64,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajaynarayana28-git&show_icons=true&theme=dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaynarayana28-git&layout=compact&theme=dark&hide_border=true" width="48%" />
-</p>
+![Ajay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajaynarayana28-git&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
 ---
 
