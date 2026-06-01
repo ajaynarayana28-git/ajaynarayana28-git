@@ -19,9 +19,9 @@
 
 ## 🔗 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/ajaykumar-cloud
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ajay%20Kumar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ajaykumar-cloud)
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-ajaynarayana28--git-black?style=for-the-badge&logo=github)](https://github.com/ajaynarayana28-git)
 
 ## 🛠️ Skills & Tools
 
