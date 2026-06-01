@@ -15,6 +15,12 @@
 - 🚀 Currently building real-world AWS projects to launch my cloud career
 - 📫 Open to **Cloud Engineer / DevOps** opportunities
 
+------
+
+## 🔗 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/ajaykumar-cloud
+
 ---
 
 ## 🛠️ Skills & Tools
